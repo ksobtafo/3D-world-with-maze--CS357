@@ -1,0 +1,26 @@
+﻿  main.cpp
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(23): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\tree.h(151): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\zebra.h(150): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\zebra.h(173): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\zebra.h(204): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\zebra.h(234): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\zebra.h(263): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(124): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(156): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(203): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(206): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(286): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+\\cs1\2020\ksobtafoalambong20\cs-357-1-compgraphics\midterm latest\main.cpp(289): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  EX14_01_SkyCube.vcxproj -> \\cs1\2020\ksobtafoalambong20\CS-357-1-CompGraphics\midterm latest\Debug\EX14_01_SkyCube.exe
